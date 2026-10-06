@@ -1,0 +1,4 @@
+*.tap
+*.packed.html
+VALIDATION.json
+INSTALL.json
